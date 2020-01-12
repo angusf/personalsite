@@ -4,17 +4,28 @@
   {% include head.html %}
 
   <body>
+    <article class="h-entry">
+      <div class="layout-wrapper">
+        <figure class="intro-img">
+          <img src="/assets/images/travel2003.jpg" alt="image alternative description" title="image title">
+        </figure>
 
-    {% include header.html %}
+        <div class="wrapper longform" aria-label="Content">
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
+          {% include header.html %}
+
+          {{ content }}
+
+          {% include footer.html %}
+
+
+        </div>
       </div>
-    </main>
+    </article>
 
-    {% include footer.html %}
+
 
   </body>
+
 
 </html>
