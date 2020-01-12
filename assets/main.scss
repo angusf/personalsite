@@ -674,6 +674,10 @@ h5 {
     font-family: Sohne, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
 }
 
+h2 {
+  margin-bottom:.1em;
+}
+
 .fonts-loaded .h2,
 .fonts-loaded h2 {
     font-size: 20px;
@@ -962,12 +966,8 @@ em {
 }
 
 hr {
-    background: url(/f62dcd5f8db2a8b5b51f7cc99a63b1e1cdb87687/b1e3a/images/essays/systems/star.svg);
-    background-size: contain;
-    width: 110px;
-    border: none;
-    opacity: .4;
-    height: 35px
+    opacity: 1;
+    height: 1px
 }
 
 img {
