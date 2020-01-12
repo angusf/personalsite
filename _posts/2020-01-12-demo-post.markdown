@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Demo Post"
-date:   2020-01-12
-categories: writing
----
-This is a post to check things are working
-
-Can I create a post, commit it to Github & view on Cloud Cannon Server
