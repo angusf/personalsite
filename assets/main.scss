@@ -483,7 +483,7 @@ html {
 body {
     font: 400 110%;
     font-weight: 400;
-    font-family: Newzald, Georgia, serif;
+    font-family: Georgia, serif;
     line-height: 1.4;
     background-color: var(--background-color);
     color: var(--main-text-color);
@@ -979,7 +979,8 @@ img {
     margin-top: 100px
 }
 
-.meta {
+.meta,
+.post-meta{
     color: #777
 }
 
