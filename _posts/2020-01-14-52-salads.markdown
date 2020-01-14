@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "52 Salads"
+date:   2020-01-14
+categories: writing
+---
+Just before the new year I made commitment to myself to eat more plants and it occurred to me that I don't have much of a salad repertoire. So I decided to make at least 52 salads I've not made before over 2020. I've made about 6 new salads so far.
+
+My plan is to create another site likely using Jekyll to document and share them. I imagine it will be very simple site with just the recipes with one photo and no endless SEO oriented preambles.
+
+I'm curious how much Adsense revenue such a site could make.
