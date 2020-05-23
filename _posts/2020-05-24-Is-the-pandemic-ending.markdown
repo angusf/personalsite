@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Is then pandemic ending?"
+title:  "Is the pandemic ending?"
 date:   2020-05-24
 categories: writing
 ---
-So long since i wrote a post that I've forgotten how to update this site.
+So long since i wrote a post that I'd forgotten how to update this site.
 
 Since last post where i was concerned about apocalyptic bushfires caused by climate change there has been a global pandemic killing hundreds of thousands of people.
 
