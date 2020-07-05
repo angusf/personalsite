@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Angus Fraser, little adventures in hypertext
+title: Angus Fraser's hypertext playground
 author: Angus Fraser
 email: angusf@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
