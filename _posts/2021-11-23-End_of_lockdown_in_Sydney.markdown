@@ -8,5 +8,4 @@ NSW hit 80% double vaccinated and from Monday October 18th our new premier grant
 
 On this beautiful Saturday morning I saw the double decker tour busses were optimistically doing their rounds - a single tourist sitting on the top deck the whole of Sydney to herself.
 
-This
 ![Friday afternoon in Beare Park](/assets/images/221120_beareparkpano.jpg){: width=500}
