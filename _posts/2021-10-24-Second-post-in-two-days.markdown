@@ -9,8 +9,8 @@ After 12 months away I couldn't really remember how to render this blog. I wrote
 ### Painting
 I've had a set of 48 small acrylic tubes for years bought at half price then unused. I plan to use them now. See if I can create a set of work from that one box of colour that I like. I've done two and half so far including this one which I'm not sure I like.
 
-Painting this reminded me of improv just offering paint to paper to see what happens, half enjoying half hating it as it progresses, moments of magic then when time's up analysing results and as many steps as can be remembered and hoping next time I'll feel more in control. However with acrylic it seems possible to have another go and erase previous attempts with another layer.
-
 <p align="center">
   <img src="/assets/images/211123_acrylic_A4.jpeg" width="500" alt="Learning to paint with acrylics"/>
 </p>
+
+Painting this reminded me of improv just offering paint to paper to see what happens, half enjoying half hating it as it progresses, moments of magic then when time's up analysing results and as many steps as can be remembered and hoping next time I'll feel more in control. However with acrylic it seems possible to have another go and erase previous attempts with another layer.
