@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Out of lockdown"
-date:   2021-11-23
+date:   2021-10-23
 categories: writing
 ---
 NSW hit 80% double vaccinated and from Monday October 18th our new premier granted us more freedoms. If we're double vaccinated we can have 20 people over. People were very quick to head to bars, clubs and restaurants in my area. I still feel cautious.

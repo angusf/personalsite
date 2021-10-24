@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Angus Fraser's hypertext playground
+title: angusf.com
 author: Angus Fraser
 email: angusf@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just a place to play around with web development tools and post things I can take down later if I want to.
+  An online space of my own to try things I can take down later if I want to.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.angusf.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: angusf
